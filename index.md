@@ -9,6 +9,6 @@ My skills are: I am a good people person, can work well in groups and I am very 
 ### Links
 - [Youtube](https://www.youtube.com/)
 - [LinkedIn](https://www.linkedin.com/in/oscar-weston-b9756919b/)
-- [Discord](https://discordapp.com/activity) Ecliptic(Oscar)#2790
+- [FaceBook](https://www.facebook.com/profile.php?id=100008000595622)
 
 
