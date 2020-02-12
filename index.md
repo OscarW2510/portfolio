@@ -18,3 +18,5 @@ My skills are: I am a good people person, can work well in groups and I am very 
 ### Devloper Sites
 - [Facebook](https://developers.facebook.com/)
 - [Twitter](https://developer.twitter.com/)
+
+Developer sites are sites that use functions from other websites.
