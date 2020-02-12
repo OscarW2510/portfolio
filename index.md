@@ -15,4 +15,6 @@ My skills are: I am a good people person, can work well in groups and I am very 
 - [GitHub](https://github.com/)
 - [Replit](https://repl.it/@OscarWeston25)
 
-<p> hi </p>
+### Devloper Sites
+- [Facebook](https://developers.facebook.com/)
+- [Twitter](https://developer.twitter.com/)
