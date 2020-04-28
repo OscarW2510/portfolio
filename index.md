@@ -19,4 +19,6 @@ My skills are: I am a good people person, can work well in groups and I am very 
 - [Facebook](https://developers.facebook.com/)
 - [Twitter](https://developer.twitter.com/)
 
+<a href="game.html"> Play the game. </a>
+
 Developer sites are sites that use functions from other websites.
