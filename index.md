@@ -2,14 +2,19 @@
 
 ## Oscar Weston
 
-My skills: I am a good people person, can work well in groups and I am very efficient
+My skills: 
+- Creativity
+- Good teamwork
+- Able to work on my own well if needs be
+- Good listener 
+
 
 ### Social Links
 - [Youtube](https://www.youtube.com/)
 - [LinkedIn](https://www.linkedin.com/in/oscar-weston-b9756919b/)
 - [FaceBook](https://www.facebook.com/profile.php?id=100008000595622)
 
-### Example Work/Coding I have done
+### Example of coding I have done
 - [GitHub](https://github.com/)
 - [Replit](https://repl.it/@OscarWeston25)
 
@@ -19,4 +24,4 @@ My skills: I am a good people person, can work well in groups and I am very effi
 
 
 
-Developer sites are sites that use functions from other websites.
+
