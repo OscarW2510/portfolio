@@ -4,7 +4,9 @@ layout: default
 
 
 # Previous Artwork
-  
+
+  [Medievil Magic](https://oscarw2510.github.io/WebGL/)
+
   <a href="game.html"> Play the game. </a>
   
   .[FMP Gameplay](https://www.youtube.com/watch?v=RUd6ki2dnlc)
