@@ -10,6 +10,7 @@ My skills:
 
 
 ### Social Links
+- [LinkedIn](https://www.linkedin.com/in/oscar-weston-b9756919b/)
 - [Youtube](https://www.youtube.com/)
 - [FaceBook](https://www.facebook.com/profile.php?id=100008000595622)
 
