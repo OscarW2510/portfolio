@@ -7,7 +7,9 @@ layout: default
 
   [2nd year Pratical Project Medievil Magic Game](https://oscarw2510.github.io/Artist-WebGl/?1+1=44)
   
-  .[2nd Year Practical Project Gameplay ](https://youtu.be/0QD6ead7Uus)
+  [2nd Year Practical Project Gameplay ](https://youtu.be/0QD6ead7Uus)
+  
+  [2nd Year Game Jam ](https://oscarw2510.github.io/GameJamWebGL/)
 
  
  <a href="game.html"> Play my 1st year FMP Game. </a>
