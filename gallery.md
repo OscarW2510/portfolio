@@ -19,6 +19,12 @@ layout: default
 # Reskin of my 2nd year Game
  [Artists Reksin of my game](https://oscarw2510.github.io/Artist-change-game/)
 
+ <img src="assets/images/Reskin 2.PNG" width="100%"/><br/>
+ <img src="assets/images/Reskin 4.PNG" width="100%"/><br/>
+ <img src="assets/images/Reskin 5.PNG" width="100%"/><br/>
+ <img src="assets/images/Reskin 6.PNG" width="100%"/><br/>
+ <img src="assets/images/Reskin 7.PNG" width="100%"/><br/>
+
 # Artwork and Images of my own work 
 
   <img src="assets/images/dadadada.PNG" width="100%"/><br/>
