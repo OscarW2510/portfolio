@@ -17,7 +17,7 @@ layout: default
   .[FMP Gameplay](https://www.youtube.com/watch?v=RUd6ki2dnlc)
 
 # Reskin of my 2nd year Game
- [Artists Reksin of my game](https://oscarw2510.github.io/Artist-change-game/)
+ [Actual game with all the Reskinned assets](https://oscarw2510.github.io/Artist-change-game/)
  
  - Credit to: Harriet Woodhams and Olivia Hudson
 
