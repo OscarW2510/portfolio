@@ -18,6 +18,8 @@ layout: default
 
 # Reskin of my 2nd year Game
  [Artists Reksin of my game](https://oscarw2510.github.io/Artist-change-game/)
+ 
+ - Credit to: Harriet Woodhams and Olivia Hudson
 
  <img src="assets/images/Reskin 2.PNG" width="100%"/><br/>
  <img src="assets/images/Reskin 4.PNG" width="100%"/><br/>
