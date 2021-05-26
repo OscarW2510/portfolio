@@ -15,6 +15,20 @@ layout: default
  <a href="game.html"> Play my 1st year FMP Game. </a>
  
   .[FMP Gameplay](https://www.youtube.com/watch?v=RUd6ki2dnlc)
+  
+# 2nd Year FMP Game 
+ [Playable game](https://oscarw2510.github.io/Final-Zelda-game-/)
+ 
+ <img src="assets/images/BossHealth.PNG" width="100%"/><br/>
+ <img src="assets/images/arrow.PNG" width="100%"/><br/>
+ <img src="assets/images/beach deck.PNG" width="100%"/><br/>
+ <img src="assets/images/bow n arrow.PNG" width="100%"/><br/>
+ <img src="assets/images/cave entrance.PNG" width="100%"/><br/>
+ <img src="assets/images/enemy room.PNG" width="100%"/><br/>
+ <img src="assets/images/forest 1.PNG" width="100%"/><br/>
+ <img src="assets/images/forest 2.PNG" width="100%"/><br/>
+ <img src="assets/images/lighting 2.PNG" width="100%"/><br/>
+ <img src="assets/images/lighting.PNG" width="100%"/><br/>
 
 # Reskin of my 2nd year Game
  [Actual game with all the Reskinned assets](https://oscarw2510.github.io/Artist-change-game/)
