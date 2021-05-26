@@ -17,7 +17,7 @@ layout: default
   .[FMP Gameplay](https://www.youtube.com/watch?v=RUd6ki2dnlc)
   
 # 2nd Year FMP Game 
- [Playable game](https://oscarw2510.github.io/Final-Zelda-game-/)
+ [Playable game - The Adventure](https://oscarw2510.github.io/Final-Zelda-game-/)
  
  <img src="assets/images/BossHealth.PNG" width="100%"/><br/>
  <img src="assets/images/arrow.PNG" width="100%"/><br/>
