@@ -10,11 +10,7 @@ layout: default
   [2nd Year Practical Project Gameplay ](https://youtu.be/0QD6ead7Uus)
   
   [2nd Year Game Jam ](https://oscarw2510.github.io/GameJamWebGL/)
-
  
- <a href="game.html"> Play my 1st year FMP Game. </a>
- 
-  .[FMP Gameplay](https://www.youtube.com/watch?v=RUd6ki2dnlc)
   
 # 2nd Year FMP Game 
  [Playable game - The Adventure](https://oscarw2510.github.io/Final-Zelda-game-/)
